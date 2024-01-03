@@ -8,3 +8,11 @@
 <p align = "center">Best project made so far: Free Spotify 🎮</p>
 <p align = "center">Discord Tag: j0nathan550 📱</p>
 <p align = "center">YouTube Page: <a href="https://www.youtube.com/channel/UC3E45UB48i2a13JGdmScn8A">click!</a>⌨️</p></b>
+
+
+⠀
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=j0nathan550&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j0nathan550&layout=compact&theme=dark)
