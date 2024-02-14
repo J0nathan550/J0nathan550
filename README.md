@@ -8,6 +8,7 @@
 <p align = "center">Best project made so far: Free Spotify 🎮</p>
 <p align = "center">Discord Tag: j0nathan550 📱</p>
 <p align = "center">YouTube Page: <a href="https://www.youtube.com/channel/UC3E45UB48i2a13JGdmScn8A">click!</a>⌨️</p></b>
+<p align="center">Checkout my apps in Microsoft Store: <a href="https://apps.microsoft.com/search/publisher?name=J0nathan550">click!</a>🛒</p>
 ⠀
 <h2 align="center">Stats</h2>
 
