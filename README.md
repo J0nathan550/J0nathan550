@@ -15,3 +15,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=j0nathan550&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j0nathan550&layout=compact&theme=dark)
+
+
+Donate if you wish to :D
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W2QEXTW)
